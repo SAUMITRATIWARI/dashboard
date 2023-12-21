@@ -1,0 +1,41 @@
+/* Home.css */
+
+.dhiwise-navigation {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  background-color: #333; /* Dark background color */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Darker box shadow */
+  border-radius: 10px;
+  color: #fff; /* Light text color */
+}
+
+h1 {
+  font-size: 24px;
+  color: #1877f2; /* Facebook blue color */
+  margin-bottom: 20px; /* Add some space below the heading */
+}
+
+.headline {
+  font-size: 16px;
+  margin-bottom: 30px; /* Add more space below the headline */
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #e9ebee; /* Lighter text color for links */
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
